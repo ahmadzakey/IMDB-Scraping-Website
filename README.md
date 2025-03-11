@@ -12,7 +12,7 @@ Web scraping allows us to gather data from websites when APIs are unavailable or
 
 ## Data Extraction Details
 - **Total Data Scraped:** 25 movies
-- **Extracted Features:** (e.g., Title, Rating, Year, Genre, Director, Cast)
+- **Extracted Features:** (e.g., Title, Rating, Year, Duration, Metascore, Synopsis)
 - **Output Format:** Saved as an **Excel file** for easy analysis.
 
 ## Tools & Libraries Used
